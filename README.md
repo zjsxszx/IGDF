@@ -42,7 +42,7 @@ env name: HalfCheetah-morph / HalfCheetah-morph2 / Hopper-morph / Hopper-morph2 
 ### Hyperparameters(IGDF)
 start using source: 1e5 \
 Representation train frequency: 100 \
-Representation batch size: 128
+Representation batch size: 128 \
 env name: HalfCheetah-morph / HalfCheetah-morph2 / Hopper-morph / Hopper-morph2 / Walker-morph / Walker-morph2
 
 ### IGDF+IQL
